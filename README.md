@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 
-
-🚀 About Me
-
 - 🎓 First-year B.Tech student at ABES Engineering College
 - 💻 Passionate about Python & Django
 - 🌱 Currently learning and exploring web development
