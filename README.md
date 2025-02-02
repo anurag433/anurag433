@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **singhanurag4140@gmail.com**
+
+🚀 About Me
+
+- 🎓 First-year B.Tech student at ABES Engineering College
+- 💻 Passionate about Python & Django
+- 🌱 Currently learning and exploring web development
+- 🔭 Open to collaborating on interesting projects
+- 📚 Always eager to learn new technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
