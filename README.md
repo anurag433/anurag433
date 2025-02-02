@@ -5,6 +5,7 @@
 - 🌱 Currently learning and exploring web development
 - 🔭 Open to collaborating on interesting projects
 - 📚 Always eager to learn new technologies
+- 📫 How to reach me **singhanurag4140@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
