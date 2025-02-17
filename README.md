@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 
 - 🎓 First-year B.Tech student at ABES Engineering College
+ 
 - 💻 Passionate about Python & Django
+ 
 - 🌱 Currently learning and exploring web development
+ 
 - 🔭 Open to collaborating on interesting projects
+ 
 - 📚 Always eager to learn new technologies
+ 
 - 📫 How to reach me **singhanurag4140@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
